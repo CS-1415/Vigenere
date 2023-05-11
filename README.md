@@ -1,4 +1,4 @@
-# Vigenere
+# Vigenere Cipher
 # Goals
 1. Recall (or learn) how writing simple tests can help you clearly understand, specify, and achieve desired behavior.
 2. Write a cool program to review standard procedural programming (i.e. not object-oriented) in C#.
